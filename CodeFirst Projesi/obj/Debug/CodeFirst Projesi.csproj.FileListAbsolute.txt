@@ -1,0 +1,22 @@
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\CodeFirst Projesi.exe.config
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\CodeFirst Projesi.exe
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\CodeFirst Projesi.pdb
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\EntityFramework.dll
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\EntityFramework.xml
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.csprojAssemblyReference.cache
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Form1.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Properties.Resources.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.csproj.GenerateResource.cache
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.csproj.CoreCompileInputs.cache
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.csproj.CopyComplete
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.exe
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst Projesi.pdb
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.InitialCreate.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.CreateMusterisTable.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.CreateMusterisehirColumninMusteris.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.kategoriaditokategorinameinKategorisTable.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.CreatekategorisilinKategoriTable.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.DeletekategorisilinKategorisTable.resources
+C:\Visual Studio\CodeFirst Projesi\CodeFirst Projesi\obj\Debug\CodeFirst_Projesi.Migrations.DeleteMusterisiTable.resources
